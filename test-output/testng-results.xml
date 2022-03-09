@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10473" started-at="2021-03-01T21:31:01 IST" finished-at="2021-03-01T21:31:12 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10473" started-at="2021-03-01T21:31:01 IST" finished-at="2021-03-01T21:31:12 IST">
+      <class name="deserialization.Des">
+        <test-method status="PASS" signature="deserialization()[pri:0, instance:deserialization.Des@67b467e9]" name="deserialization" duration-ms="10374" started-at="2021-03-01T21:31:01 IST" finished-at="2021-03-01T21:31:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deserialization -->
+      </class> <!-- deserialization.Des -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
