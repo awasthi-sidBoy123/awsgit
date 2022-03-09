@@ -22,6 +22,8 @@ public class DemoJson {
 		String getTitle = js.get("courses[0].title");
 		System.out.println("getTitle is "+getTitle);
 		
+		System.out.println("I am making some changes.");
+		
 		int price = 0;
 		int total = 0 ;
 		
