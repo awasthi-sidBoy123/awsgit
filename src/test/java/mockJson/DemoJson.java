@@ -23,7 +23,8 @@ public class DemoJson {
 		System.out.println("getTitle is "+getTitle);
 		
 		System.out.println("I am making some changes.");
-		System.out.println("I am doing this from windows side");
+		System.out.println("I am doing this from windows sidec");
+		System.out.println("I am doing this from windows side - error");
 		
 		int price = 0;
 		int total = 0 ;
